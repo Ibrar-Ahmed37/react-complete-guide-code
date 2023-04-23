@@ -6,7 +6,7 @@ This repository contains the course source code and other extra materials like s
 
 The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
 
-For example, the branch [11-practice-food-order-app](https://github.com/Ibrar-Ahmed37/react-complete-guide-code/11-practice-food-order-app) holds all code snapshots and extra materials for section 1 of the course ("Getting Started").
+For example, the branch [11-practice-food-order-app](https://github.com/Ibrar-Ahmed37/react-complete-guide-code/tree/11-practice-food-order-app) holds all code snapshots and extra materials for section 1 of the course ("Getting Started").
 
 You can switch branches via the branch dropdown above the directory explorer.
 
